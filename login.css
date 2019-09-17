@@ -1,0 +1,54 @@
+.container{
+    background-color: white;
+    margin: 100px;
+    height: 230px;
+    width: 350px;
+    box-shadow: 0px 0px 4px #b4b0b0;
+    padding: 5px 10px 0px 50px;
+    }
+    #login-para{
+        text-align: center;
+        font: 1em sans-serif;
+        font-weight: 500
+    }
+
+    #username-id{
+        color: #9b51e0;
+        background: #f2f2f2;
+        border-radius: 20px;
+        height: 30px;
+        width: 300px;
+        padding-left: 20px;
+        border: none;
+        
+    }
+    #password-id{
+        color: #9b51e0;
+        background: #f2f2f2;
+        border-radius: 20px;
+        height: 30px;
+        width: 300px;
+        padding-left: 20px;
+        border: none;
+        
+    }
+    #login-id{
+        color: white;
+        background: #9b51e0;
+        border-radius: 20px;
+        height: 30px;
+        width: 100px;
+        text-align: center;
+        border: none;
+        
+    }
+    #forgot-para{
+        text-align: center;
+        font: 0.7em sans-serif;
+        font-weight: 200;
+        text-decoration: none;
+        }
+        a{
+            text-decoration: none;
+            color: black
+        }
