@@ -41,6 +41,7 @@ button{
     color: #fff;
     padding:5px;
     border-radius: 20px;
+    border: none
 }
 
 input.text{
